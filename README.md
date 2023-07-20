@@ -6,7 +6,7 @@ Here is Constrix blog server source code!
 
 ```shell
 sudo apt-get install hugo -y
-git clone --recursive https://github.com/Constrix/Constrix-blog-server
+git clone --recursive https://github.com/Constrix/Constrix-blog
 cd Constrix-blog-server
 hugo server --debug --watch
 ```
